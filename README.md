@@ -2,20 +2,20 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunhoh&show_icons=true&include_all_commits=true&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunhoh&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
+![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=flat&logo=typescript&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&labelColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&labelColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=CSS3&labelColor=white)
 
-<!--
-**hyunhoh/hyunhoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=redux&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Styled--Components-%23DB7093?style=flat&logo=styled-components&labelColor=white)
+![Static Badge](https://img.shields.io/badge/React--Router-%23CA4245?style=flat&logo=react-router&labelColor=white)
 
-Here are some ideas to get you started:
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&labelColor=white)
+![Static Badge](https://img.shields.io/badge/S3-%23569A31?style=flat&logo=amazons3&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&labelColor=white)
+![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?style=flat&logo=amazonaws&labelColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunhoh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
