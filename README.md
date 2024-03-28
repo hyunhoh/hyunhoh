@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Hello!%20I'm%20hyunho&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Hello!%20I'm%20hyunho&desc=Be%20a%20developer%20who%20contributes%20to%20business&fontSize=40&descSize=25&descAlignY=70)
 
 ---
 
